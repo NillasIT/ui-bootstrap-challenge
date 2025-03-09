@@ -3,7 +3,6 @@
 /* Aplica a fonte Poppins para todo o site.*/
 * {
   font-family: 'Poppins', sans-serif;
-  
 }
 
 /* Define um fundo cinza claro #ececec.
@@ -33,17 +32,17 @@
 }
 
 .row {
-  max-width: 900px;
+  max-width: 1000px;
   width: 100%;
-  height: 550px;
-  border-radius: 10px;
+  height: 600px;
+  border-radius: 20px;
   background: #fff;
   padding: 0px;
   box-shadow: 5px 5px 10px 1px rgba(155, 155, 155, 0.2);
 }
 
 img {
-  width: 35px;
+  width: 45px;
   position: absolute;
   top: 30px;
   left: 30px;
